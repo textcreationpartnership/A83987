@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands prosperity in the priviledges of Parliament, set forth in a briefe collection of their most memorable services for the honour and safety of this kingdome, since the conquest, till these present times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83987</idno>
+            <idno type="STC">Wing E3020</idno>
+            <idno type="STC">Thomason E128_5</idno>
+            <idno type="STC">ESTC R212761</idno>
+            <idno type="EEBO-CITATION">99871337</idno>
+            <idno type="PROQUEST">99871337</idno>
+            <idno type="VID">156234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156234)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands prosperity in the priviledges of Parliament, set forth in a briefe collection of their most memorable services for the honour and safety of this kingdome, since the conquest, till these present times.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nicholas Iones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156234:1" rendition="simple:additions"/>
+            <p>ENGLANDS PROSPERITY <hi>IN THE PRIVILEDGES</hi> OF PARLIAMENT, Set forth In a briefe Collection of their moſt Memorable ſervices for the honour and ſafety of this Kingdome, ſince the Con<g ref="char:EOLhyphen"/>queſt, till theſe preſent times.</p>
+            <figure>
+               <figDesc>printer's device with fleur-de-lis, probably originally belonging to John Wolfe</figDesc>
+            </figure>
+            <p>
+               <add>nouemb: 24</add> LONDON, Printed for <hi>Nicholas Iones.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156234:2"/>
+            <pb n="3" facs="tcp:156234:2"/>
+            <head>ENGLANDS Proſperity.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Inſtitution of our Parliaments is very ancient; Some hold they were in uſe among the Saxons, but the more certaine opinion is, they are derivative from the Norman Conquerour, being indeed the very Eſſence and <hi>primum mobile</hi> of the Fundamentall Lawes of this Kingdome; the Subjects beſt in<g ref="char:EOLhyphen"/>heritance, the Charter by which he holds his liberty.</p>
+            <p>In the Raigne of <hi>William</hi> the Conquerour his time, being moſt imployed in France, we reade not of any memorable act performed by Parliament, the Kingdome being then as it were in parties, and the Lawes in their infancy: Nor in his ſons <hi>William Rufus</hi> raigne, till upon his deceaſe the Body of the kingdome, ſaith <hi>William Riſhanger,</hi> choſe for their head King <hi>Beauclarke</hi> diſcarding <hi>Robert</hi> Duke of Normandy his elder brother from the government; ſo ſupreame was the dignity of the Parliament in thoſe dayes, that for the good of the people, who deſired not a ſtranger ſhould rule over them, <hi>Robert</hi> being an alien borne, and <hi>Henry</hi> at Selby in Yorke<g ref="char:EOLhyphen"/>ſhire, that it could confer the royalty on him that onely had
+<pb n="4" facs="tcp:156234:3"/>his right in the Soveraignty by the Parliaments Election and ſufferage. The ſame Parliament to unite the ancient Saxon bloud Royall, with the Norman, engaging him to marry <hi>Ma<g ref="char:EOLhyphen"/>tilda</hi> the daughter of <hi>Malcolme</hi> King of Scots, being the on<g ref="char:EOLhyphen"/>ly heire of <hi>Edmund Ironſide.</hi> The ſame Parliament or another in his Raigne obtaining from that good King many Franchi<g ref="char:EOLhyphen"/>ſes and Priviledges for the ſubject.</p>
+            <p>King <hi>Stephen</hi> the ſucceſſor to his Uncle made no great uſe of the Honourable the High Court of Parliament, being in<g ref="char:EOLhyphen"/>deed an uſurper, he was aſſur'd that juſt and wiſe Aſſembly could never be ſo much recreant to their naturall vertue, as to underprop by their ſtrength his former claime againſt the right heire <hi>Maud</hi> the Empreſſe, whoſe ſonne <hi>Henry</hi> the ſhort Mantle, Parliamentary power rather then his forces, ſetled in the Royalty. This powerfull King made frequent and ſpeciall uſe of his Parliaments, both for the ſupplying his coffers ex<g ref="char:EOLhyphen"/>hauſted in his expenſive wars; and for ſetling the affaires of the kingdome, a Parliament in his raigne ſetling the confu<g ref="char:EOLhyphen"/>ſion of our common Lawes, gathering the beſt of the Nor<g ref="char:EOLhyphen"/>man conſtitutions, and adding to them the beſt of King <hi>Al<g ref="char:EOLhyphen"/>freds</hi> and Saint <hi>Edwards</hi> Lawes; It made up the body of our fundamentall Statutes. The ſame Parliament for the eaſe and benefit of the ſubject obtaining from that King Judges itine<g ref="char:EOLhyphen"/>rant that ſhould ride the ſeverall circuits of the kingdome, and bring the people right home to their owne doores: His ſon the Lyon-hearted <hi>Richard,</hi> in his wars in the Holy Land, receiving from his ſubjects the bounteous proviſion of his Parliaments in nine yeres, eleven hundred thouſand markes, a ſtupendious ſumme ſayes one in thoſe dayes, ere the Indean Treaſury had oreſiowed the world, though they were not at all for the profit of the people, were mightily to the honour of the Nation in generall, as thoſe dayes went; So that it is apparant our Parliaments have alwayes been as carefull of the kingdomes honour as its profit.</p>
+            <p>King <hi>Iohn</hi> his ſucceſſor indeed an uſurper, declined the uſe of Parliaments till his neceſſities inforced him to call them
+<pb n="5" facs="tcp:156234:3"/>and relye on them: Our Parliaments having alwayes been our Kings beſt helpers at dead lifts, furniſhing them from the publicke ſtore, when either miſchance, or if ſuperfluity had exhauſted, their private Treaſuries</p>
+            <p>When this King alienating from the vertue of his Aunce<g ref="char:EOLhyphen"/>ſtors, ſought not only the oppreſſion of the ſubject, but to in<g ref="char:EOLhyphen"/>ſlave the Crowne to a forraine yoake, to avoid excommu<g ref="char:EOLhyphen"/>nication, and to win him to his party, holding his Royalty of the Pope. The Parliament mindfull of the ſubiects ſafety tooke righteous armes up againſt them, and got the charter of their Liberty, ſealed them, his ſonne <hi>Henry</hi> the third as he raigned longeſt of all our Kings, ſo he had the moſt to doe with the high Court of Parliament, with whom for the Li<g ref="char:EOLhyphen"/>berty of the Subiect, that Aſſembly had many and frequent contentions at Oxford: A Parliament in his Raigne (all pla<g ref="char:EOLhyphen"/>ces of credit and truſt being conferr'd upon aliens the Kings kinſmen and halfe brothers) tooke upon them to redreſſe thoſe abuſes, diſplacing thoſe up-ſtarts from their uſurp'd dig<g ref="char:EOLhyphen"/>nities, and baniſh'd them the kingdome.</p>
+            <p>Parliamentary power was never more uſefull to the Sub<g ref="char:EOLhyphen"/>iect then in theſe times, nor never was it's power better man<g ref="char:EOLhyphen"/>nag'd. When the King having againe got new and evill Mi<g ref="char:EOLhyphen"/>niſters that waſted the treaſure and Crowne-lands on them<g ref="char:EOLhyphen"/>ſelves and followers; The uſuall reply of their ſervants to the complaints of the Kings Subiects, as ſaith <hi>William</hi> of Kiſhan<g ref="char:EOLhyphen"/>ger, being <hi>quis tibi rectum faciet quod Dominus meus vult. Dominus Rex vult.</hi> Then did the Parliament by force rectifie thoſe abuſes when faire meanes would not prevaile, and thence indeed grew thoſe long laſting Barrons wars, wher<g ref="char:EOLhyphen"/>in the Liberty and property of the ſubiect had been ſwallow<g ref="char:EOLhyphen"/>ed in the gulph of the Royall Prerogative, had not the Parlia<g ref="char:EOLhyphen"/>ment preſerv'd it; ſo carefull has that great and wiſe Aſſem<g ref="char:EOLhyphen"/>bly alwayes bin of the kingdomes ſafety, and ſo advantagious to the commodity of the ſubiect.</p>
+            <p>
+               <hi>Edward</hi> the firſt, our Engliſh <hi>Iuſtinian</hi> made often and good uſe of his Parliaments, which liberally furniſh'd him
+<pb n="6" facs="tcp:156234:4"/>with money for his Scottiſh wars, the Parliament ſupplying him with money, being the maine occaſion of his conqueſts; there thoſe Parliaments in lieu of their liberality obtaining from that good and gracious King the ample confirmation of their former priviledges, divers new ones being added to thoſe of <hi>Magna Charta,</hi> as the mitigation of thoſe rigorous lawes of the forreſts, which did moſt undoe the ſubjects ſafe<g ref="char:EOLhyphen"/>ties, many excellent and uſefull Statutes, being enacted in thoſe Parliaments. The Jewes, that both by their irreligion and uſury, were growne odious to the people, being not as in former Kings reignes fin'd, but their ill-gotten goods con<g ref="char:EOLhyphen"/>fiſcated, and themſelves for ever baniſh'd the kingdome.</p>
+            <p>
+               <hi>Edward</hi> the ſecond, a diſſolute and infortunate Prince, comply'd not with his Pa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iament but his Minions, and was at laſt by a Parliament depoſed, and the royalty conferr'd on his ſonne, that great <hi>Edward</hi> the third; who ſtill relying on the love and loyalty of his people, was powerfull and victo<g ref="char:EOLhyphen"/>rious in <hi>France,</hi> the Parliaments aſſembled here furniſhing him with plentifull ſupplies of treaſure to pay his ſouldiers, and by thoſe ſummes purchas'd ſtil new infranchiſements for the Subjects, that glorious King being every whit as carefull to inſtitute good &amp; wholſome laws for his people here, as he was deſirous to conquer in <hi>France.</hi> That unfortunate grand<g ref="char:EOLhyphen"/>child of his, <hi>Richard</hi> 2. ſeduced by flatterers, and led away to Oppreſſions and Injuſtices by his evill miniſters, the Subject groaning under their tyrannies, had onely recourſe to the Parliament for reliefe: that great and famous Parliament that wrought wonders, being in his raigne wherein forces were raiſed by the nobleſt Peeres and faithfull commons for the puniſhment of the Kings malignant councellours. <hi>Vere Treſilian</hi> and the reſt, who from the Parliament received a due reward for their trecheries; and that laſt this King who ne<g ref="char:EOLhyphen"/>ver would adhere to his Parliaments advice was by Parlia<g ref="char:EOLhyphen"/>ment degraded of his royalty, and the Crowne conferr'd by their act upon <hi>Henry</hi> the fourth, who confiding in his Parlia<g ref="char:EOLhyphen"/>ment, repreſs'd by their help all domeſtique troubles and for<g ref="char:EOLhyphen"/>raigne
+<pb n="7" facs="tcp:156234:4"/>Enemies: his ſonne that thunderbolt of war, <hi>Henry</hi> the fifth, by his Parliaments bounty, made an abſolute con<g ref="char:EOLhyphen"/>queſt of <hi>France,</hi> ſo that indeed all the glorious atchievments of our <hi>Engliſh</hi> Monarchs are to be attributed to the care of and providence of Parliaments: <hi>Henry</hi> the ſixth, during the life of his Uncles, <hi>Bedford</hi> and <hi>Gloceſter,</hi> was happy and fea<g ref="char:EOLhyphen"/>red abroad, as well as lov'd at home; thoſe good Dukes, both to defend their forraigne conqueſts, and to preſerve the Majeſty of their Nephew at home, ſummoning many Parlia<g ref="char:EOLhyphen"/>ments, at laſt the Parliament in it's juſtice taking notice of the undoubted right of <hi>Richard</hi> Duke of <hi>Yorke,</hi> to the Crown and the uſurpation of the houſe of <hi>Lancaſter,</hi> by their act ſet<g ref="char:EOLhyphen"/>led the royalty upon his Progenie, diſclaiming the ſonne of <hi>Henry</hi> the ſixth, though a gallant Prince.</p>
+            <p>
+               <hi>Edward</hi> the fourth, the firſt Monarch of the Houſe of <hi>Yorke,</hi> was, though not a frequent caller of Parliaments; yet when they were aſſembled, a great conſenter to them, and at their requeſt a continuall confirmer of the peoples Immunities; ſo was he, who though held the worſt of men, is reputed among the beſt of our Kings. The Tyrant, <hi>Richard</hi> the third, who at his Parliaments devis'd many new and wholſome Lawes for the benefit of the people: how rich, how puiſſant and glo<g ref="char:EOLhyphen"/>rious <hi>Henry</hi> the ſeventh liv'd and di'd by the Parliaments ad<g ref="char:EOLhyphen"/>vice and furtherance, is not unknowne to all that know our Hiſtories, the union between the two ſo long jarring Houſes, though continued by private perſons, being ratified and con<g ref="char:EOLhyphen"/>firm'd by Parliament.</p>
+            <p>
+               <hi>Henry</hi> the eighth's raign afforded plurality of Parliaments, and very materious ones; at one of them that great Act (the more wondred at then the extirpation of Epiſopacie could be now) was paſs'd for the demoliſhment of thoſe rich Abbies, the nurſeries of ſloth and licenciouſneſſe; for the not onely excluding miter'd Abbots from having votes in Parliament, but for their utter annihilating, their mighty re<g ref="char:EOLhyphen"/>venues being confin'd the Kings: At another Parliament the power of the Pope was baniſh'd this Iſland, and the Supreme
+<pb n="8" facs="tcp:156234:5"/>Eccleſiaſticall government annexed to the Prerogative Roy<g ref="char:EOLhyphen"/>all; ſo carefull have our Parliaments alwayes been, not onely to preſerve, but augment the dignity of our King. A Parlia<g ref="char:EOLhyphen"/>ment in <hi>Edward</hi> the ſixth's time refin'd Religion from all the dregs of Romiſh ſuperſtition, and ſettled the purity of Reli<g ref="char:EOLhyphen"/>gion in this Kingdome, which obſcur'd and alter'd in Queen <hi>Mary's</hi> reigne, was in her ſiſters, of famous memory, by Par<g ref="char:EOLhyphen"/>liamentary power ſettled againe into it's old order, how hap<g ref="char:EOLhyphen"/>py and glorious was that Queen during her long reigne by relying on her Parliament: what bleſſings were deriv'd from the Prince to the people, and from the people to the Prince: ſo it was i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King <hi>Iames</hi> his time, no difference at all ever happening betweene him and his Parliament; at one of which himſelfe with his whole Nobility, had not God mi<g ref="char:EOLhyphen"/>raculouſly prevented it, had been by the Papiſts divelliſh con<g ref="char:EOLhyphen"/>ſpiracie ſold to deſtruction; nor certainly had there ever been emergent this ſtrange diſtemper between King <hi>Charles</hi> and this his honourable and loyall Parliament, had the King bin as ready to comply with their juſt deſires, as they were to performe their duties to him; never was Parliament ſo hope<g ref="char:EOLhyphen"/>full, never had the State ſo much need of phyſick, becauſe it was never ſo deſperately ſicke: never were wholſomer me<g ref="char:EOLhyphen"/>dicines apply'd to cure its diſtempers, then hath been by this Parliament, had not perverſe malignants altered and tranſ<g ref="char:EOLhyphen"/>formed the Kings intentions from his Parliament now aſ<g ref="char:EOLhyphen"/>ſembled, heaven ſend a ſpeedy union betweene them, and there is no doubt but the Parliament (whom God preſerve from all dangers) will make the King great and glorious, and the Subject fortunate and flouriſhing.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
